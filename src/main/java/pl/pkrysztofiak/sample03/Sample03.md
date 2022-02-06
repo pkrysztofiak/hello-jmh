@@ -1,0 +1,1 @@
+State objects naturally encapsulate the state on which benchmark is working on. The Scope of state object defines to which extent it is shared among the worker threads.
